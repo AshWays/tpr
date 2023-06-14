@@ -1,0 +1,6 @@
+﻿  lr2.cpp
+D:\books\SevGU\3kurs\6sem\TPR\lr2\lr2.cpp(120,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\books\SevGU\3kurs\6sem\TPR\lr2\lr2.cpp(134,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\books\SevGU\3kurs\6sem\TPR\lr2\lr2.cpp(168,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\books\SevGU\3kurs\6sem\TPR\lr2\lr2.cpp(106,10): warning C4101: conc: неиспользованная локальная переменная
+  lr2.vcxproj -> D:\books\SevGU\3kurs\6sem\TPR\lr2\Debug\lr2.exe
